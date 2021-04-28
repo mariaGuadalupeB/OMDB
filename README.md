@@ -1,3 +1,13 @@
-**Proyecto individual, Plataforma 5. 
+# IMDB Clone
 
-Web app de consulta de películas. Tecnologías aplicadas: Node JS, Bulma, JWT, Postgress - Sequelize, ReactJs.
+## Project description:
+Wep app at Plataforma 5. Individual development of an IMDB clone
+
+## Technology stack:
+
+Node JS, Bulma, JWT, Postgress - Sequelize, ReactJs.
+
+## START
+
+**1) START:** `npm start`
+
